@@ -1,1 +1,2 @@
 # Heart_disease_predictor
+It is a Machine Learning project that predicts if the person has a chance of getting heart attack or not. It is made using Python libraries, Database(provided by World health organisation),and jupyter notebook in visual studio code. This application will take your different parameters like blood pressure, cholesterol, pulse rate, diabetes, etc and compare it with the normal parameters that is provides in the database and predicts heart attack. 
